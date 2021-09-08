@@ -6,7 +6,7 @@ On FreeBSD the driver is installed by the port. (or pkg). Check the Qt documenta
 
 ## Screenshots
 
-![pgBrowser]()
+![pgBrowser](https://raw.githubusercontent.com/arduent/pgbrowser/main/pgBrowser.png)
 
 ## Build It
 
